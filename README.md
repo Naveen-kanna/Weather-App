@@ -1,0 +1,1 @@
+Developed a Weather App using HTML, CSS, and JavaScript, utilizing the OpenWeatherMap API to fetch and display real-time weather data, including temperature, humidity, wind speed, and weather conditions, with a user-friendly search interface and error handling for invalid city names.
